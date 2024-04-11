@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab10</string>
+
+    <string name="copy">Copy</string>
+    <string name="invert">Invert</string>
+    <string name="grey">Grey</string>
+    <string name="black_white">BlackAndWhite</string>
+
+</resources>
